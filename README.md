@@ -40,15 +40,15 @@ You can use `wp_dequeue_style( 'wptalents-embed-frontend' )` and load your own s
 ## Screenshots ##
 
 ### 1. The meta box on post edit screen. ###
-![The meta box on post edit screen.](http://s.wordpress.org/extend/plugins/wp-talents-embed/screenshot-1.png)
+![The meta box on post edit screen.](https://raw.githubusercontent.com/swissspidy/wptalents-embed/master/screenshot-1.png)
 
 
 ### 2. The plugin displays an overview of the talents on your site. ###
-![The plugin displays an overview of the talents on your site.](http://s.wordpress.org/extend/plugins/wp-talents-embed/screenshot-2.png)
+![The plugin displays an overview of the talents on your site.](https://raw.githubusercontent.com/swissspidy/wptalents-embed/master/screenshot-2.png)
 
 
 ### 3. When using oEmbed, the plugin displays an IFrame with the talent's profile. ###
-![When using oEmbed, the plugin displays an IFrame with the talent's profile.](http://s.wordpress.org/extend/plugins/wp-talents-embed/screenshot-3.png)
+![When using oEmbed, the plugin displays an IFrame with the talent's profile.](https://raw.githubusercontent.com/swissspidy/wptalents-embed/master/screenshot-3.png)
 
 
 ## Changelog ##
