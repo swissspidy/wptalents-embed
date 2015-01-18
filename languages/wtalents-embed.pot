@@ -1,0 +1,116 @@
+# Copyright (C) 2015 Pascal Birchler
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Talents Embed 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wptalents.com\n"
+"POT-Creation-Date: 2015-01-18 09:07:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Pascal Birchler\n"
+"Language-Team: SpinPress\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Talents Embed"
+msgstr ""
+
+#: includes/admin/Meta_Box.php:68
+msgid "In the WP Talents meta box you can search for a talent by its name."
+msgstr ""
+
+#: includes/admin/Meta_Box.php:72
+msgid ""
+"Select a matching talent from the result list and rearrange talents\n"
+"\t\t\t\tin the order you would like them to appear in your post by dragging "
+"a talent name to its new position."
+msgstr ""
+
+#: includes/admin/Meta_Box.php:77
+msgid "Remove a talent from the list by clicking the %s button."
+msgstr ""
+
+#: includes/admin/Meta_Box.php:87
+msgid "WP Talents"
+msgstr ""
+
+#: includes/admin/Meta_Box.php:111
+msgid "Embed the following talents in this post"
+msgstr ""
+
+#: includes/admin/Meta_Box.php:116
+msgid "Start typing…"
+msgstr ""
+
+#: includes/admin/Meta_Box.php:131
+msgid "Remove talent"
+msgstr ""
+
+#: includes/admin/Meta_Box.php:132
+msgid "X"
+msgstr ""
+
+#: includes/core/Plugin.php:45
+msgid "You need at least WordPress 2.9 to run this plugin."
+msgstr ""
+
+#: includes/core/Plugin.php:49
+msgid "You need at least PHP 5.3 to run this plugin."
+msgstr ""
+
+#: includes/templates/Talent.php:105
+msgid "WordPress.com VIP Partner"
+msgstr ""
+
+#: includes/templates/Talent.php:111
+msgid "%s Plugin"
+msgid_plural "%s Plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/templates/Talent.php:119
+msgid "%s Theme"
+msgid_plural "%s Themes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/templates/Talent.php:131
+msgid "Follow %s on WP Talents"
+msgstr ""
+
+#: includes/templates/Talent.php:133
+msgid "Follow on WP Talents"
+msgstr ""
+
+#: includes/templates/Talent.php:151
+msgid "%s more team members"
+msgstr ""
+
+#: includes/templates/Talent.php:199
+msgid "%s is hiring:"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wptalents.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Easily embed WP Talents profiles in your blog posts."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pascal Birchler"
+msgstr ""

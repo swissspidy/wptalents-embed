@@ -1,0 +1,37 @@
+{
+  "name"        : "swissspidy/wptalents-embed",
+  "description" : "Embed WP Talents profiles in your blog posts",
+  "keywords"    : [
+    "wordpress",
+    "spinpress",
+    "plugin",
+    "magazine"
+  ],
+  "type"        : "wordpress-plugin",
+  "homepage"    : "https://github.com/swissspidy/wptalents-embed",
+  "authors"     : [
+    {
+      "name"    : "Pascal Birchler",
+      "email"   : "pascal.birchler@spinpress.com",
+      "homepage": "https://wptalents.com/"
+    }
+  ],
+  "support"     : {
+    "issues": "https://github.com/swissspidy/wptalents-embed/issues"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url" : "https://github.com/humanmade/Custom-Meta-Boxes"
+    }
+  ],
+  "require"     : {},
+  "autoload"    : {
+    "psr-4": {
+      "WPTalents_Embed\\Admin\\"    : "includes/admin",
+      "WPTalents_Embed\\API\\"      : "includes/api",
+      "WPTalents_Embed\\Core\\"     : "includes/core",
+      "WPTalents_Embed\\Templates\\": "includes/templates"
+    }
+  }
+}
